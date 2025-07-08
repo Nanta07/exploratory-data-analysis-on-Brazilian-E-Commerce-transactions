@@ -1,4 +1,3 @@
-```markdown
 # 📦 E-Commerce Public Dataset - Data Analysis Project
 
 This repository contains a comprehensive exploratory data analysis (EDA) project on an E-Commerce public dataset. The project was initially created as part of an academic assignment, but its depth and versatility make it a valuable public resource for learning data analytics, business insight generation, and storytelling with data.
